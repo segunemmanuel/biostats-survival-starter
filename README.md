@@ -34,8 +34,3 @@ source("code/cox_quickstart.R")
 - `requirements.txt` — minimal Python dependencies.
 - `figures/` — calibration plots saved here.
 - `data/` — (empty; gitignored) put real datasets here when you’re ready.
-
-## Next steps
-- Replace the practice dataset with your hospital dataset when ready.
-- Add a tree-based survival model (e.g., scikit-survival) and competing-risks if relevant.
-- Push the repo to GitHub (private until applications are submitted).
